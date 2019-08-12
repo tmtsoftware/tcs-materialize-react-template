@@ -5,15 +5,13 @@ A React-Redux and materialize-css user interface template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Getting Started
+### Installation 
 
 git clone https://github.com/tmt-software/tcs-materialize-react-template.git
 
 cd tcs-materialize-react-template.git
 
 npm install
-
-npm start
 
 
 ## Available Scripts
